@@ -11,14 +11,6 @@ npm run dev
 
 ## Environment Variables
 
-Create a `.env` file in the root:
-
-```
-VITE_DEEPSEEK_API_KEY=your_deepseek_api_key_here
-```
-
-Get a free DeepSeek API key at [platform.deepseek.com](https://platform.deepseek.com).
-
 ## Features
 
 - Live market cards for S&P 500, NGX Nigeria, and Bloomberg Global
